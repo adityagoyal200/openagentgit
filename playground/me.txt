@@ -1,6 +1,0 @@
-
-{{#user}
-Name: Aditya goyal
-Skills: HTML, CSS, JS, React, java etc
-Email: goyaladitya3815@gmail.com
-{{/user}}
